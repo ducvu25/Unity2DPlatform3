@@ -59,7 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
-    <Compile Include="Assets\ShadowCreation.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerSO.cs" />
   </ItemGroup>
   <ItemGroup>

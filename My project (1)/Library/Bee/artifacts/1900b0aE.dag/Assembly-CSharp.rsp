@@ -389,7 +389,6 @@
 -analyzer:"C:/Program Files/Unity 2022.2.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Player/PlayerController.cs"
 "Assets/Scripts/Player/PlayerSO.cs"
-"Assets/ShadowCreation.cs"
 -langversion:9.0
 
 /deterministic
